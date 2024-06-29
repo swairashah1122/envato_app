@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/envato_app/static/js/main.14042b5e.js",
+    "static/media/Samsung_TabS7.webp": "/envato_app/static/media/Samsung_TabS7.d58db589b6354bf93e29.webp",
+    "static/media/unnamed-removebg-preview.png": "/envato_app/static/media/unnamed-removebg-preview.5b840fc1a8cea6235c33.png",
+    "static/media/appstore.png": "/envato_app/static/media/appstore.b155149f50f051f84fe7.png",
+    "static/media/target.png": "/envato_app/static/media/target.64ce609a4eb807ee4a6d.png",
+    "static/media/img2.jpg": "/envato_app/static/media/img2.2ca133e7a396dc66b18d.jpg",
+    "static/media/pngtree-vector-strategy-icon-png-image_695886-removebg-preview.png": "/envato_app/static/media/pngtree-vector-strategy-icon-png-image_695886-removebg-preview.642150ac1c36df6e5ed6.png",
+    "static/media/girl.jpg": "/envato_app/static/media/girl.acaead447af55d45897e.jpg",
+    "static/media/playstore1.png": "/envato_app/static/media/playstore1.bf4be9351833c990018c.png",
+    "static/media/stand man.jpg": "/envato_app/static/media/stand man.5d5af5e6506e996ab858.jpg",
+    "static/media/img1.jpg": "/envato_app/static/media/img1.86421d48e539cf9543fc.jpg",
+    "static/media/envatologo.png": "/envato_app/static/media/envatologo.e8c901bee6ec7dfb606d.png",
+    "static/media/arroq3.png": "/envato_app/static/media/arroq3.9350d4939dbc1a25a933.png",
+    "index.html": "/envato_app/index.html",
+    "main.14042b5e.js.map": "/envato_app/static/js/main.14042b5e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.14042b5e.js"
+  ]
+}

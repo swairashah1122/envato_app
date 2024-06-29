@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import HeroSection from './components/HeroSec';
+import Nav1st from './components/Nav1st';
+import Panel from './components/Panel';
+import Pricing from './components/Pricing';
+import SecondPanel from './components/SecPanel';
+import Launch from './components/launch';
+import Service from './components/service';
+import Slider from './components/Slider';
+import Footer from './components/Footer';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Nav1st></Nav1st>
+      <Panel></Panel>
+      <SecondPanel></SecondPanel>
+      <HeroSection></HeroSection>
+      <Service></Service>
+      <Launch></Launch>
+      <Pricing></Pricing>
+      <Slider></Slider>
+      <Footer></Footer>
+
+    </>
   );
 }
 
 export default App;
+
